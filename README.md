@@ -5,7 +5,7 @@
 
 Ceci est une réalisation d'une interface utilisateur pour le métro parisien en python et dans [jupyter notebook](https://jupyter.org/).
 
-> Toutes l'explication et commentaires du code se trouvent dans **src/Algorit....ipynb** (dans le fichier de jupyter notebook)
+> Tous les explication et commentaires du code se trouvent dans **src/Algorit....ipynb** (dans le fichier de jupyter notebook)
 
 ## Représentation de l'interface
 
